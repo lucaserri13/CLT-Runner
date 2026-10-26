@@ -1,0 +1,68 @@
+(Análise Runner CLT)
+
+* Telas, elementos e fluxo do jogo:
+
+Telas:
+- Tela de introdução (história)
+- Tela de gameplay
+
+Elementos:
+> Tela de introdução
+	- História em tirinhas, 4 páginas no exato
+	- Instrução para avançar a história (espaço para avançar)
+> Tela de gameplay
+	- Player
+	- CLT
+	- Comida (com quatro sprites diferentes)
+	- Fundo
+
+Fluxo:
+- Não há fim, é um infinite runner, 
+logo só há o início (história) e o meio (gameplay).
+- O fluxo de telas é puramente linear 
+(tela de introdução -> tela de gameplay.)
+devido a não ser possível voltar para a história após entrar na gameplay.
+
+---------------------------------------------------------------------------------
+
+* Objetivo, obstaculos e regras
+
+Objetivo:
+- Ir o mais longe possível
+- Pegar comida ao longo do caminho
+
+Obstaculos:
+- CLT
+- Ter que ir para o lado onde a comida está para pegá-la
+
+Regras:
+- Ao tocar no CLT você perde
+- Ao pegar a comida ela é destruída
+
+----------------------------------------------------------------------------------
+
+Meu Feedback:
+
+O jogo não possui senso de progresso,
+tanto em termo de conquista como também em dificuldade.
+
+Na questão de conquista as comidas não possuem muito propósito no jogo,
+você apenas coleta elas porque você pode apesar delas não oferecerem quaisquer mudanças
+na gameplay, muito menos pontos para indicar quantas comidas você coletou durante a run.
+
+Já na dificuldade o jogo nunca fica mais difícil conforme você progride
+já que a velocidade do player nunca aumenta.
+Apesar da velocidade atual do jogo ser boa para o início de uma run
+(para o jogador poder se familiarizar com os controles),
+ela torna o jogo entediante já que o desafio nunca aumenta
+para tornar as coisas mais interessantes,
+mantendo o jogador em um ritmo de início de jogo apesar dele já estar na run a 10 minutos.
+
+Sugiro a adição de um sistema de pontos e o aumento da velocidade do personagem ao longo
+do tempo. Como um extra também sugiro fazer com que a morte dure um tempinho
+para você ver o personagem morrendo ou pelo menos uma tela de game over 
+(já que a morte no jogo está muito abrupta) além de reduzir a hurtbox do personagem,
+já que da a impressão de que a fumaça que sai dos passos do personagem 
+contam como parte da hurtbox dele.
+
+Com essas mudanças o jogo tem o potencial de ser bem divertido.

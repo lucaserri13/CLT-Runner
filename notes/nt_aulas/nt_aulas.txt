@@ -1,0 +1,104 @@
+001 - Apresentação
+
+O módulo apresentará coisas que não foram ensinadas pelo professor ainda, 
+no intuito de criar autonomia.
+
+É obrigatório fazer uso do Discord para compartilhar o progresso do projeto
+assim como tirar dúvidas nas partes onde você não sabe o que fazer.
+
+(Os assets estão na descrição, na parte de "Materiais")
+
+____________________________________________________________________________________________
+
+002 - Objetivo do módulo
+
+Coisas para fazer: 
+- Criar um repositório 
+- Criar um Devlog no Discord 
+- Se necessário, ir no Discord e relatar quaisquer problemas e dúvidas
+
+____________________________________________________________________________________________
+
+003 - O projeto
+
+Jogue o CLT Runner na itch.io, separe os elementos que compõe o jogo
+e organize-os no bloco de notas para saber como montar o jogo.
+
+Link do jogo:
+
+https://jackmalta.itch.io/runner-clt
+
+(A ANALISE ESTÁ EM UMA NOTA SEPARADA CHAMADA "nt_analise")
+____________________________________________________________________________________________
+
+004 - A comunidade do curso
+
+(LEIA AS REGRAS DO SERVIDOR DO DISCORD)
+
+O professor pode desbanir você se sua conta do discord foi hackeada,
+zmas qualquer outro motivo de ban ele não desbane, apenas os moderadores.
+
+(A não ser que tenha sido o professor que baniu você e não o moderador)
+
+O servidor do curso é aberto para qualquer um,
+logo não é exclusivo somente para os alunos que possuem o curso
+
+O cargo de community faz você ser notificado de eventos que ocorram na comunidade
+
+Para obter o cargo NoNeClass você precisa entrar no servidor
+através do link na página inicial do curso.
+____________________________________________________________________________________________
+
+005 - Funcionamento do discord
+
+Há três canais para dúvidas além de um fórum onde é possível criar
+um post com sua dúvida e até especifica em que área a dúvida de trata
+
+Entretanto não é permitido usar um canal de dúvida
+que já está sendo utilizado por outra pessoa
+
+O canal de gamedev geral permite conversas sobre desenvolvimento de jogos,
+off-topic permite conversas normais
+e shitpost é shitpost
+
+Projetos podem ser compartilhados no canal de compartilhar 
+assim como em games em desenvolvimento
+
+aquecimentos diários permitem compartilhar progresso diário do projeto
+____________________________________________________________________________________________
+
+006 - Devlog e duvidas
+
+As devlogs são feitas no canal de missões. 
+nela você pode criar o seu devlog com base na postagem exemplo que o canal possui
+
+Lembre-se de colocar a tag de CLT runner no devlog, 
+além de colocar o repositório por ser obrigatório para esse módulo
+
+Primeiro você clica em "new post" e depois adiciona o título e descrição,
+na descrição insira o início do projeto, compartilhando sua organização
+
+Isso inclui como você planejou em como irá criar as mecânicas do jogo
+
+é permitido compartilhar prints e vídeos
+
+Ao tirar dúvida nos canais de dúvida, 
+considere compartilhar um screenshot ou filmagem da tela inteira
+
+Dessa forma você mostra não só o código que você tem dúvida assim como códigos
+ao redor que também podem ser causa do problema
+____________________________________________________________________________________________
+
+007 - Repositório
+
+Poste seu repositório no site do github assim como deixar ele como público
+
+Não esqueça de publicar quaisquer novos commits
+____________________________________________________________________________________________
+
+008 - Dicas e suporte
+
+As dicas estão ali para ajudar a como fazer certas coisas, não tem vídeo mas tem texto
+
+Também terá um vídeo sendo a resolução, mas tente fazer sem a dica,
+recorrendo ao discord antes das dicas

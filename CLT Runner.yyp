@@ -9,7 +9,9 @@
     "name":"Default",
   },
   "defaultScriptType":1,
-  "Folders":[],
+  "Folders":[
+    {"$GMFolder":"","%Name":"Notes","folderPath":"folders/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
   "isEcma":false,
@@ -19,6 +21,8 @@
   },
   "name":"CLT Runner",
   "resources":[
+    {"id":{"name":"nt_analise","path":"notes/nt_analise/nt_analise.yy",},},
+    {"id":{"name":"nt_aulas","path":"notes/nt_aulas/nt_aulas.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "resourceType":"GMProject",
