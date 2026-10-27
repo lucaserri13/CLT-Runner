@@ -7,3 +7,11 @@ Tamanho da sprite do fundo:
 
 (W) Width: 180
 (H) Height: 320
+
+Coordenadas do player:
+
+(Y) = 200
+
+(X)
+Lado Esquerdo: 13
+Lado Direito: 168
