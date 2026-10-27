@@ -1,0 +1,9 @@
+Tamanho da sprite da história:
+
+(W) Width: 360
+(H) Height: 640
+
+Tamanho da sprite do fundo:
+
+(W) Width: 180
+(H) Height: 320
