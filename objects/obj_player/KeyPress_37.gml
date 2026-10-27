@@ -1,2 +1,5 @@
-x = 13
-image_xscale = 1
+// Indo para a esquerda
+x = 13;
+
+// Mudando a sprite para a esquerda
+image_xscale = 1;
