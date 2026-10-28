@@ -1,3 +1,6 @@
+// Adicionando movimento vertical para baixo.
+vspeed = 1 + global.acelerar;
+
 // Destruindo a comida quando ela sair da room.
 if (y >= 320)
 instance_destroy(self);
