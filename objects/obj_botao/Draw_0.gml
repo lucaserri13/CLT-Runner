@@ -58,5 +58,5 @@ if !(_txt = "Texto")
 		draw_text(x, y, "Game Over\nContratado!\n\nPontos: " + string(global.pontos )
 		+ "\nTempo: " + string(global.tempo))
 			// Texto de Título
-			else draw_text(x, y, "CLT RUNNER")
+			else draw_text(x, y, "CLT RUNNER\n\nControles: \nUse as setas para se mover.")
 	}
