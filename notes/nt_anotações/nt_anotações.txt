@@ -15,3 +15,11 @@ Coordenadas do player:
 (X)
 Lado Esquerdo: 13
 Lado Direito: 168
+
+Coordenadas do aviso:
+
+(Y) = 0
+
+(X)
+Lado Esquerdo = 18
+Lado Direito = 98

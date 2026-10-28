@@ -12,6 +12,6 @@ instance_create_layer(13, y, "Instances", obj_comida);
 lado = choose("esquerda", "direita");
 
 // Reiniciando o alarme aleatório.
-alarm[0] = irandom_range(60, 60*4) - (global.acelerar * 4);
+alarm[0] = irandom_range(60, 60*3) - (global.acelerar * 4);
 if (alarm[0] <= 30) 
 alarm[0] = 30;

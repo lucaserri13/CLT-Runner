@@ -10,8 +10,8 @@
   "name":"obj_pause",
   "overriddenProperties":[],
   "parent":{
-    "name":"Gameplay",
-    "path":"folders/Objects/Gameplay.yy",
+    "name":"Managers",
+    "path":"folders/Objects/Gameplay/Managers.yy",
   },
   "parentObjectId":null,
   "persistent":false,
