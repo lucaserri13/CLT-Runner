@@ -1,4 +1,9 @@
-draw_set_valign(fa_middle)
-draw_set_halign(fa_center)
+// Alinhando o desenho.
+draw_set_valign(fa_middle);
+draw_set_halign(fa_center);
 
-draw_text(175, 600, "Pontos: " + string(global.pontos))
+// Desenhando os pontos.
+draw_text(175, 600, "Pontos: " + string(global.pontos));
+
+// Desenhando o tempo.
+draw_text(175, 620, "Tempo: " + string(global.tempo));

@@ -1,5 +1,8 @@
 /// @description spawn comida / loop spawner
 
+// O código não será lido caso o jogo esteja pausado
+if instance_exists(obj_pause) exit
+
 // Criando comida
 if (lado = "esquerda")
 instance_create_layer(13, y, "Instances", obj_comida);

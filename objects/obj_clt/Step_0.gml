@@ -1,5 +1,5 @@
 // Adicionando movimento vertical para baixo.
-vspeed = 1 + global.acelerar;
+vspeed = global.acelerar;
 
 // Destruindo a CLT quando ela sair da room.
 if (y >= 320)

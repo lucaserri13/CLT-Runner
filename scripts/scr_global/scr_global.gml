@@ -1,6 +1,11 @@
 // Randomizando a seed do jogo.
-randomise()
+randomise();
 
-global.acelerar = 0
+// Variável global para acelerar o jogo
+global.acelerar = 1;
 
-global.pontos = 0
+// Variável global para os pontos feitos durante o jogo
+global.pontos = 0;
+
+// Variável global para tempo de run
+global.tempo = 0;
