@@ -10,6 +10,9 @@ global.tempo = 0;
 // Iniciando o tempo novo
 alarm[0] = 60;
 
+// Criando a energia do player
+energy = 4
+
 // Parando todos os sons (exceto música)
 audio_stop_sound(snd_pickup);
 audio_stop_sound(snd_game_over);

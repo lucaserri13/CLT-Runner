@@ -9,3 +9,8 @@ global.acelerar += 0.1;
 
 // Dando pontos para o player
 global.pontos++;
+
+// dando energia para o player
+energy += 2
+if energy >= 4
+	energy = 4

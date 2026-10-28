@@ -23,3 +23,26 @@ Coordenadas do aviso:
 (X)
 Lado Esquerdo = 18
 Lado Direito = 98
+
+estrutura de mecânica de energia:
+
+- 4 de energia máxima
+- 0 de energia mínima
+- mover para esquerda e direita usa 1 energia
+- ao ficar com 0 de energia não é mais possivel se mover pros lados
+- comer uma comida recupera 2 de energia
+
+regras:
+
+- ficar com 0 de energia não acaba sua run, você permanece correndo
+- você não gasta energia se tentar ir para um lado no qual você já está 
+(Tipo apertar seta para direita quando você já está do lado direito)
+- código local, sem uso de global (interação com comida faz em evento de colisão)
+
+Medição para barra de energia
+
+X1 = 42
+Y1 = 208
+
+X2 = 142
+Y2 = 218
